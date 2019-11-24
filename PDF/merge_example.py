@@ -16,7 +16,7 @@ def PDFmerge(pdfs, output):
   
 def main(): 
     # pdf files to merge 
-    pdfs = ['a.pdf', 'b.pdf'] 
+    pdfs = ['stk.pdf', 'a.pdf','b.pdf'] 
      
     # output pdf file name 
     output  = 'combined_example.pdf'
